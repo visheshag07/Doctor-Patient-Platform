@@ -1,4 +1,4 @@
-Xcelore Assignment 
+
 Patient Data Collection
 {
   "name": "Alice Johnson",
